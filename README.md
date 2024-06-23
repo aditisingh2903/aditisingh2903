@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditi Singh
 - 👀 I’m interested in web designing
-- 🌱 I’m currently learning about web developement and working on Web developement projec
+- 🌱 I’m currently learning about web developement and working on Web developement project
 - 📫 How to reach me
 - Linkedin-www.linkedin.com/in/aditi-singh-bab78528b
 - 😄 Pronouns: She/her
