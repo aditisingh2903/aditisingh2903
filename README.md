@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aditi Singh
-- 👀 I’m interested in web designing
+- 👀 I’m interested in Full Stack Web-Devlopement
 - 🌱 I’m currently learning about web developement and working on Web developement project
 - 📫 You can reach me by:
       Linkedin-www.linkedin.com/in/aditi-singh-bab78528b
